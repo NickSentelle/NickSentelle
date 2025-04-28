@@ -1,14 +1,14 @@
 Nicolas Sentelle – Data Analytics Portfolio
 “Graduate student in Applied Economics with experience in credit scoring, segmentation, and predictive modeling. Passionate about using data to drive smarter decisions.”
 
-Skills Overview
+Skills Overview:
 R, Python, SAS, Stata, SQL, Excel
 Logistic Regression, PCA, Clustering, Feature Engineering
 Data Visualization (ggplot2, matplotlib), ROC/AUC, Credit Modeling
 
 1. Consumer Credit Scoring Model (Huntington National Bank)
 Tech Used: R, Logistic Regression, WoE/IV, AUC
-Summary: Developed a predictive model to classify subprime auto loan risk using logistic regression and Weight of Evidence (WoE) binning.
+Summary: Developed credit scorecards using weighted logistic regressions to classify auto loans based on probability of default. Compared the results of machine learning methods (XGBoost) to classical regression models using ROC curves.
 Impact: Helped simulate default probabilities for nearly 3,000,000 loan applications. Successfully developed a credit score model that outperform the FICO credit score for predicting default on auto loans.
 
 2. Customer Segmentation via PCA + Clustering
